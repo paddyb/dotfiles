@@ -1,0 +1,11 @@
+src/node_modules/
+src/typings/
+**/*.js
+**/*.js.map
+**/.DS_Store
+.settings
+**/.vs
+**/.vscode
+!**/.vscode/tasks.json
+coverage/
+.idea

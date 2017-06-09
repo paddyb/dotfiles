@@ -1,5 +1,5 @@
-src/node_modules/
-src/typings/
+**/node_modules/
+**/typings/
 **/*.js
 **/*.js.map
 **/.DS_Store
@@ -9,3 +9,4 @@ src/typings/
 !**/.vscode/tasks.json
 coverage/
 .idea
+npm-debug.log
